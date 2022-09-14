@@ -24,7 +24,7 @@ docker-compose up -d
 http://localhost:3000/api/v2/sync
 ```
 
-6. Enabled endPoints from local environment
+6.✨Enabled endPoints from local environment
 ```
 http://localhost:3000/api/v2/sync GET
 ```
@@ -38,7 +38,7 @@ http://localhost:3000/api/v2/pokemon/{pokemon-id / pokemon-name} GET
 http://localhost:3000/api/v2/pokemon/type/{pokemon-type} GET
 ```
 
-7. Enabled endPoints from cloud provider
+7.✨Enabled endPoints from cloud provider
 ```
 http://74.208.182.108:3004/api/v2/sync GET
 ```
