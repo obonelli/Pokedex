@@ -32,7 +32,7 @@ http://localhost:3000/api/v2/pokemon/{pokemon-id / pokemon-name} GET
 http://localhost:3000/api/v2/pokemon/type/{pokemon-type} GET
 ```
 
-6. Enabled endPoints from cloud provider
+7. Enabled endPoints from cloud provider
 ```
 http://74.208.182.108:3004/api/v2/sync GET
 http://74.208.182.108:3004/api/v2/pokemon GET
